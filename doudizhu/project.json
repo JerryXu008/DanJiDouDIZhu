@@ -1,0 +1,43 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 2,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules"  : ["cocos2d",  "external","extensions"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/PokerType.js",
+        "src/MyUtility.js",
+        "src/NodeId.js",
+        "src/TimeUtil.js",
+        "src/StringUtil.js",
+        "src/DateUtil.js",
+        "src/AudioUtil.js",
+        "src/CToast.js",
+        "src/DialogSetting.js",
+        "src/AnalyzePoke.js",
+        "src/AIUtil.js",
+        "src/Card.js",
+        "src/Person.js",
+        "src/DialogPerson.js",
+        "src/DialogSucceed.js",
+
+        "src/GameIndex.js",
+        "src/DialogPoker.js",
+        "src/JPQLayer.js",
+        "src/DialogTask.js",
+        "src/GameMain.js"
+
+
+
+
+    ]
+}
+
+
