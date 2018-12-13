@@ -1,0 +1,3 @@
+# DanJiDouDIZhu
+单机斗地主，用cocosjs编写
+把framework文件夹里面原生的cocos2d-x删除了，下载完毕直接用webstorm等工具打开就可以运行，移植到android和ios需要自己处理一下了，移植起来很简单
